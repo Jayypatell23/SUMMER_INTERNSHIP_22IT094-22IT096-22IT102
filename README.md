@@ -115,12 +115,7 @@ Version Control: Git
 
 ---
 
-## 📂 Project Structure
 
-The repository is organized as follows:
-
-- **/dispatch-panel:** Contains files related to the dispatch panel project.
-- **/food-ordering-website:** Contains files related to the online food ordering website project.
 
 ---
 
